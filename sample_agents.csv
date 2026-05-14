@@ -1,0 +1,11 @@
+agent_id,agent_name,team_name,location,active_flag
+1,Ava Patel,Fraud Ops A,Toronto,1
+2,Liam Chen,Fraud Ops A,Toronto,1
+3,Noah Singh,Fraud Ops A,Waterloo,1
+4,Emma Brown,Fraud Ops B,Toronto,1
+5,Sophia Khan,Fraud Ops B,Mississauga,1
+6,Oliver Wright,Fraud Ops B,Toronto,1
+7,Mia Johnson,Fraud Ops C,Waterloo,1
+8,Ethan Lopez,Fraud Ops C,Toronto,1
+9,Isabella Turner,Fraud Ops C,Toronto,1
+10,Lucas Green,Fraud Ops C,Waterloo,1
