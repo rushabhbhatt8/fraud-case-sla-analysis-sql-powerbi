@@ -103,8 +103,7 @@ fraud_sla_portfolio/
 │   └── sample_sla_targets.csv
 └── docs/
     ├── implementation_steps.md
-    ├── validation_checklist.md
-    └── resume_bullets.md
+    └── validation_checklist.md
 ```
 
 ## How to use
