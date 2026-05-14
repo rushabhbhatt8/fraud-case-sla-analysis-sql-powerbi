@@ -1,0 +1,26 @@
+## File Inventory
+
+- .gitignore
+- DATA_DICTIONARY.md
+- FILE_INVENTORY.md
+- KPI_DEFINITIONS.md
+- LICENSE
+- PROJECT_OVERVIEW.md
+- README.md
+- dashboard_wireframe.md
+- data/README.md
+- data/sample_agents.csv
+- data/sample_cases.csv
+- data/sample_daily_workload.csv
+- data/sample_sla_targets.csv
+- docs/implementation_steps.md
+- docs/presentation_script.md
+- docs/resume_bullets.md
+- docs/validation_checklist.md
+- powerbi/powerbi_measure_guide.md
+- powerbi/theme.json
+- sql/analysis_queries.sql
+- sql/import_templates.sql
+- sql/schema.sql
+- sql/seed_data.sql
+- sql/views.sql
